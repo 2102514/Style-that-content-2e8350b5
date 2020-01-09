@@ -1,0 +1,32 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    color: #orange;
+    background-color: #CC3333;
+}
+
+.content { 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.content>p { 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+.news {
+    width: 33%;
+}
+
+
+
+
+
+
+
+
+    
